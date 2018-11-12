@@ -1,0 +1,26 @@
+
+try
+    cibs_catalogueRecordings(ptList(4:10));
+catch
+    return
+end
+try
+    cibs_catalogueRecordings(ptList(11:16));
+catch
+    return
+end
+try
+    cibs_catalogueRecordings(ptList(17:22));
+catch
+    return
+end
+try
+    cibs_catalogueRecordings(ptList(23:28));
+catch
+    return
+end
+try
+    cibs_catalogueRecordings(ptList(29:34));
+catch
+    return
+end
